@@ -1,4 +1,4 @@
-# Evershop Manual Testing Project (Ostad Assessment)
+# Evershop Manual Testing Project 
 
 This project was done as part of the Ostad SQA course assessment.  
 The goal was to perform manual testing on the [Evershop Demo Site](https://demo.evershop.io/) to verify the search and cart functionalities.
